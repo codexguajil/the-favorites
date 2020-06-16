@@ -1,9 +1,5 @@
 # The Favorites 
 
-## Contributors:
-- [Liz Asbell](https://github.com/easbell)
-- [Edgar Eloy Munoz](https://github.com/criteriamor)
-
 ## Install/Set-Up:
 
 # Back-End:
